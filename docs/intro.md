@@ -7,3 +7,7 @@ slug: /
 markdown is ***cool***
 
 introduction page for website i guess
+
+- test A
+- test B
+- test C
