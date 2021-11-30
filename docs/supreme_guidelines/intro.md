@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Introduction
-id: supreme_guidelines/intro
+id: intro
 ---
 
 The Supreme Guidelines is a document holding both informative and regulative information pertaining to the Foundation and its operations, it provide guidance and important information to both new and long-standing personnel alike. It is necessary to adhere to every section of the document. 
