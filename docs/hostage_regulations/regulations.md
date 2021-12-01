@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Introduction
+title: Regulations
 ---
 
 export const Highlight = ({children, color, text}) => (
@@ -14,6 +14,10 @@ style={{
 {children}
 </span>
 );
+
+:::warning
+This section of the website has not yet been completed and is subject to changes.
+:::
 
 ## General Information
 
