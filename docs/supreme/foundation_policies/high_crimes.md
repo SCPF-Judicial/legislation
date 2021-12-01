@@ -4,7 +4,7 @@ title: High Crimes
 ---
 
 :::info
-All policies hereinafter are to be considered supreme and hold precedence over any Foundation document. They will be actively enforced by the Ethics Committee and the Department of Internal Affairs.
+All policies hereinafter are to be considered supreme and hold precedence over any Foundation document, they will be actively enforced by the Department of Internal Affairs.
 :::
 
 ## Article 1 - Bribery
