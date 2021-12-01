@@ -12,8 +12,8 @@ This document was created by the Ethics Committee's Central Command, if you have
 
 Below are signatures that, once signed, will make this document lawfully binding to the operations of the Foundations. 
 
-<center><p style="font-family:'Mrs Saint Delafield'">Daxrentha</p></center>
-<center>The Administrator</center>
+<center>Daxrentha</center>
+<center><strong>The Administrator</strong></center>
 
-<center><p style="font-family:'Great Vibes'">Lewisjph</p></center>
-<center>Committee Chairman</center>
+<center>lewisjph</center>
+<center><strong>Committee Chairman</strong></center>
