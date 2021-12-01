@@ -23,17 +23,17 @@ The Office of the Administrator retains the right to issue executive orders. In 
  1. Any alternative accounts brought into the Foundation or Discord are to be registered with the Department of Internal Affairs. In order to register an alternative account on ROBLOX, you must run ``/registeralt UserID`` with Helix. To register an alternative account on Discord, you should contacted a member of the department.
  2. Any individual who wishes to transfer information from one account to another may do so but must have been in the Foundation for no more than 3 weeks and hold Security Class 1 or above. You should contact a Security Class-4 or higher to have your accounts transferred.
 
-## Article 4 - Applications
+## Article 3 - Applications
  1. Any individual who applies for any Security Class or entry into a department shall not cheat. They are to use their knowledge, grammar, spelling skills to the best of their abilities. When applying for a department, you must send a join request to the respective ROBLOX group, negligence will result in denial.
  2. Individuals may request help from anyone that is a Security Class-3 or above on their application should they not understand a question; however giving away answers is not permitted.
 
-## Article 5 - Suggestions
-Suggestions are now done through our [website](nolt.scpf.io), they will appear in the #group_suggestions channel of our Discord once posted and any changes to its status will be posted in #suggestion_responses.
+## Article 4 - Suggestions
+Suggestions are now done through our [website](https://www.nolt.scpf.io), they will appear in the #group_suggestions channel of our Discord once posted and any changes to its status will be posted in #suggestion_responses.
 
-## Article 6 - Groups of Interest
+## Article 5 - Groups of Interest
 Members of the Foundation may be in a group of interest so long as they do not raid our site or any of the games owned by this Foundation. However, they may participate in any official riot or raid on an alternative account that is not above the rank of Class-D. Members of the Mobile Task Forces and Security Department may not raid or riot on Pathos-III under any circumstances.
 
-## Article 7 - Hostage Policies
+## Article 6 - Hostage Policies
 When taken hostage you may not depart the scene unless the following criteria is met.
 - The hostage taker is not armed with a ranged weapon.
 - The hostage taker has let you go. Whether this be of their own volition, or an agreement has been reached to release you as their demands have been met.
