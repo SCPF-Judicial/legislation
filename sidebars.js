@@ -53,6 +53,7 @@ module.exports = {
         'supreme/conclusion'
       ]
     },
+    'supreme/conclusion',
     {
       type: 'category',
       label: 'Hostage Regulations',
