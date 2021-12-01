@@ -19,7 +19,7 @@ Members of the Foundation must act in good behavior, they must treat eachother w
 
 ## Article 3 - Access
  1. No members of the Foundation besides the following personnel are allowed within the Class-D Containment area: Security Class 4+, Department of Internal Affairs, Department of Diplomatic Affairs, Mobile Task Forces and Security Department. However, the following may stand on the catwalks within Omicron unless asked to leave: Security Class 3+, Foundation Investors, Logistics Department and Ethics Committee.
-  a. Those who hold the rank of Security Class 4 or Installation Director require a minimum of four Falcon-2 Agents in order to enter the Class-D Containment.
+  a. Those who hold the rank of Security Class 4 or Installation Director require a minimum of four members of the Falcon-2 Task Force in order to enter the Class-D Containment.
  2. Personnel may not cross the red line outisde of Site Epsilon unless they are spectating/hosting a test or are one of the following: Security Class 3+, Mobile Task Forces, Security Response Unit, Military Police, Combat Medics.
   a. Security Class 3 personnel may not enter any containment zone unless spectating a test. They may roam the Moderate Containment Zone with a Crimson-9 escort.
   b. Security Class 4+ personnel may roam to Moderate and Heavy Containment Zones, however they may not enter any the inner-containment of any chamber without a Crimson-9 escort.
