@@ -13,9 +13,5 @@ The following gives the reader a rough idea on punishments issued for committing
 | Glitching | When a user purposefully abuses a broken game mechanic for their own benefit. | 3 days. |
 
 :::info
-The Offical of The Administrator and its Executive Assistants are responsible for dealing with ban appeals. If you think that you were wrongfully banned, there is an appeal procedure which can be found in [this document](https://docs.google.com/document/d/1bHvPcI1jixDXSfQalMbg80WYXWqoE25Ks-D76symQf4). 
-:::
-
-:::note
-If you have any important questions, concerns, or want to appeal please make sure to send a message to the Foundations Official Email which can be found below: scpf.sci.management@gmail.com
+The Offical of The Administrator and its Executive Assistants are responsible for dealing with ban appeals. If you think that you were wrongfully banned, there is an appeal procedure which can be found [here](https://docs.google.com/document/d/1bHvPcI1jixDXSfQalMbg80WYXWqoE25Ks-D76symQf4). 
 :::
