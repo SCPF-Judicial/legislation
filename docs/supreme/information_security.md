@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 title: Information Security
-id: infosecurity
 ---
 
 The Foundation has tightened and strict policies on information and the security of that information. These policies are enforced heavily. While some punishments are seen as excessive, information may be used against the Foundation.
