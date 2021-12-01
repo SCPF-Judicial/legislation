@@ -30,75 +30,82 @@ The Scientific and Technical Wings are considered to be a part of Site Phi.
 :::
 :::info
 The following are granted access to this area:
-- Security Class 0
-- Security Class 1
-- Security Class 2
-- Security Class 3
-- Security Class 4
-- Security Class 5
+- Security Class 0,
+- Security Class 1,
+- Security Class 2,
+- Security Class 3,
+- Security Class 4,
+- Installation Director,
+- O5 Council.
 :::
 
 ## <Highlight color="#e69138">Site Omicron</Highlight>
 Site Omicron is mostly a cell house for Class-D personnel. Class-D personnel often participate in experimentation conducted by the Scientific or Medical Department. 
 :::info
 The following are granted access to this area:
-- Security Class 0
-- Security Class 1
-- Security Class 2
-- Security Class 3
-- Security Class 4
-- Security Class 5
+- Security Class 0,
+- Security Class 1,
+- Security Class 2,
+- Security Class 3,
+- Security Class 4,
+- Installation Director,
+- O5 Council.
 :::
 
 ## <Highlight color="#674ea7">Installation Command</Highlight>
 Installation Command houses administrative and logistical personnel. Hostile organizations will begin their raids and negotiations will be conducted by the Department of Diplomatic Affairs in this area.
 :::info
 The following are granted access to this area:
-- Security Class 0
-- Security Class 1
-- Security Class 2
-- Security Class 3
-- Security Class 4
-- Security Class 5
+- Security Class 0,
+- Security Class 1,
+- Security Class 2,
+- Security Class 3,
+- Security Class 4,
+- Installation Director,
+- O5 Council.
 
-- Security Department
-- Mobile Task Forces
-- Ethics Committee
-- Department of Diplomatic Affairs
-- Logistics Department
-- Manufacturing Department
+- Security Department,
+- Mobile Task Forces,
+- Ethics Committee,
+- Department of Diplomatic Affairs,
+- Logistics Department,
+- Manufacturing Department,
 :::
 
 ## <Highlight color="#5b0f00">Clean Room</Highlight>
 The Clean Room is the containment area for safe anomalies.
 :::info
 The following are granted access to this area:
-- Security Class 0 **(S)**
-- Security Class 1 **(S)**
-- Security Class 2 **(S)**
-- Security Class 3 **(E)**
-- Security Class 4
+- Security Class 0 **(S)**,
+- Security Class 1 **(S)**,
+- Security Class 2 **(S)**,
+- Security Class 3 **(E)**,
+- Security Class 4,
+- Installation Director,
+- O5 Council.
 
-- Security Department
-- Mobile Task Forces
-- Engineering & Technical Services **(E)**
-- Scientific Department **(E)**
-- Ethics Committee **(E)**
+- Security Department,
+- Mobile Task Forces,
+- Engineering & Technical Services **(E)**,
+- Scientific Department **(E)**,
+- Ethics Committee **(E)**.
 :::
 
 ## <Highlight color="#5b0f00">Site Epsilon</Highlight>
 Site Epsilon is the containment area for most anomalies, more hazardous anomalies tend to be housed here.
 :::info
 The following are granted access to this area:
-- Security Class 1 **(S)**
-- Security Class 2 **(S)**
-- Security Class 3 **(E)**
-- Security Class 4
+- Security Class 1 **(S)**,
+- Security Class 2 **(S)**,
+- Security Class 3 **(E)**,
+- Security Class 4,
+- Installation Director,
+- O5 Council.
 
-- Security Department
-- Mobile Task Forces
-- Security Department **(E)**
-- Engineering & Technical Services **(E)**
-- Scientific Department **(E)**
-- Ethics Committee **(E)**
+- Security Department,
+- Mobile Task Forces,
+- Security Department **(E)**,
+- Engineering & Technical Services **(E)**,
+- Scientific Department **(E)**,
+- Ethics Committee **(E)**.
 :::
