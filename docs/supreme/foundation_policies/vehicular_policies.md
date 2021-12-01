@@ -4,10 +4,7 @@ title: Vehicular Policies
 ---
 
 :::info
-All policies hereinafter are to be considered supreme and hold precedence over any Foundation document, they will be actively enforced by the Ethics Committee and Military Police.
-:::
-:::note
-Those who hold the rank of Installation Director and above or are a member of the Manufacturing Department are exempt from these regulations.
+All policies mentioned are to be considered supreme and hold precedence over any Foundation document, they will be actively enforced by the Ethics Committee and Military Police. Those who hold the rank of Installation Director and above or are a member of the Manufacturing Department are exempt from these regulations.
 :::
 
 ## Article 1 - Vehicle Usage

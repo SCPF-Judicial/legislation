@@ -8,31 +8,19 @@ All policies hereinafter are to be considered supreme and hold precedence over a
 :::
 
 ## Article 1 - Executive Orders & Directives
-The Office of the Administrator retains the right to issue executive orders. In addition to this, the Ethics Committee has the right to issue directives. Executive orders and directives can, by immediate order, regulate, change or implement new procedures to the ways the Foundation operates. If any executive order or directive listed is striked out, it means it is no longer in effect.
+The Office of the Administrator retains the right to issue executive orders. In addition to this, the Ethics Committee has the right to issue directives. Executive orders and directives can, by immediate order, regulate, change or implement new procedures to the ways the Foundation operates. Below, you will find all orders and directives that are currently in effect.
 
 - [Executive Order #1](https://docs.google.com/document/d/1pJ3Hr8rENBy_MuX5ZfwBA2Ov4kroL_iQ7zhArOY2LEI)
-- <del>Executive Order #2</del>
-- <del>Executive Order #3</del>
-- <del>Executive Order #4</del>
-- <del>Executive Order #5</del>
-- <del>Executive Order #6</del>
-- <del>Executive Order #7</del>
 - [Executive Order #8](https://docs.google.com/document/d/14sTwvfw_mHmJiql1cJawMefsyqncf7PDgy_bibeOLlA)
 - [Executive Order #9](https://docs.google.com/document/d/1tDE1EQJm4Kda0voFjb_GvWf_zz_MOt8nPU7KyA7HXGs)
-- <del>Executive Order #10</del>
-- <del>Executive Order #11</del>
 - [Executive Order #12](https://docs.google.com/document/d/1YzjvZgQXCy4-EBhzZzmUiFclJJCdXx4c8dM3EZ5C_2Q)
 - [Executive Order #13](https://docs.google.com/document/d/1hikO22Ws9WWz17gAibsu6ICee1GcISj2464VwIzrglQ)
-- [Executive order #14](https://docs.google.com/document/d/1jEInnIHOpehCOe54jfbCRWV0cNprEMr4SBmQKrkRW0Y)
-- <del>Executive Order #15</del>
-- [Executive order #16](https://docs.google.com/document/d/1b7V14h_D_1hs-PCA-9Qxxz_ADgkYr8p84_li3RlRCC8)
+- [Executive Order #14](https://docs.google.com/document/d/1jEInnIHOpehCOe54jfbCRWV0cNprEMr4SBmQKrkRW0Y)
+- [Executive Order #16](https://docs.google.com/document/d/1b7V14h_D_1hs-PCA-9Qxxz_ADgkYr8p84_li3RlRCC8)
 - [Executive Order #17](https://docs.google.com/document/d/1RnS9JZr986GKvsZPQ2fh4fZPASDwgns1tA4p7ndbIzs)
 
-- <del>Ethics Committee Directive #1</del>
-- <del>Ethics Committee Directive #2</del>
-
 ## Article 2 - Accounts
- 1. Any alternative accounts brought into the Foundation or Discord are to be registered with the Department of Internal Affairs. In order to register an alternative account on ROBLOX, you must run ``/registeralt ROBLOXUSERID`` with Helix. To register an alternative account on Discord, you should contacted a member of the department.
+ 1. Any alternative accounts brought into the Foundation or Discord are to be registered with the Department of Internal Affairs. In order to register an alternative account on ROBLOX, you must run ``/registeralt UserID`` with Helix. To register an alternative account on Discord, you should contacted a member of the department.
  2. Any individual who wishes to transfer information from one account to another may do so but must have been in the Foundation for no more than 3 weeks and hold Security Class 1 or above. You should contact a Security Class-4 or higher to have your accounts transferred.
 
 ## Article 4 - Applications

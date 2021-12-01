@@ -49,10 +49,10 @@ module.exports = {
               dirName: 'supreme/foundation_policies',
             },
           ]
-        }
+        },
+        'supreme/conclusion'
       ]
     },
-    'supreme/conclusion',
     {
       type: 'category',
       label: 'Hostage Regulations',
