@@ -53,7 +53,7 @@ module.exports = {
         'supreme/conclusion'
       ]
     },
-    /* {
+     {
       type: 'category',
       label: 'Hostage Regulations',
       items: [
@@ -62,7 +62,7 @@ module.exports = {
           dirName: 'hostage_regulations',
         },
       ]
-    }, */
+    },
     /* {
       type: 'category',
       label: 'Raid Regulations',

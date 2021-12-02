@@ -4,10 +4,7 @@ title: Firearm Policies
 ---
 
 :::info
-All policies hereinafter are to be considered supreme and hold precedence over any Foundation document, they will be actively enforced by the Ethics Committee.
-:::
-:::note
-Combative & Intelligence personnel are exempt from these regulations, but must conform to their department’s rules of engagement and firearm regulations.
+All policies hereinafter are to be considered supreme and hold precedence over any Foundation document, they will be actively enforced by the Ethics Committee. Combative & Intelligence personnel are exempt from these regulations, but must conform to their department’s rules of engagement and firearm regulations.
 :::
 
 ## Article 1 - General Policies
