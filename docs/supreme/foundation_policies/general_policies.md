@@ -8,7 +8,7 @@ All policies hereinafter are to be considered supreme and hold precedence over a
 :::
 
 ## Article 1 - Executive Orders & Directives
-The Office of the Administrator retains the right to issue executive orders. In addition to this, the Ethics Committee has the right to issue directives. Executive orders and directives can, by immediate order, regulate, change or implement new procedures to the ways the Foundation operates. Below, you will find all orders and directives that are currently in effect.
+The Office of the Administrator retains the right to issue executive orders. Executive orders can, by immediate order, regulate, change or implement new procedures to the ways the Foundation operates. Below, you will find all orders that are currently in effect.
 
 - [Executive Order #1](https://docs.google.com/document/d/1pJ3Hr8rENBy_MuX5ZfwBA2Ov4kroL_iQ7zhArOY2LEI)
 - [Executive Order #8](https://docs.google.com/document/d/14sTwvfw_mHmJiql1cJawMefsyqncf7PDgy_bibeOLlA)
