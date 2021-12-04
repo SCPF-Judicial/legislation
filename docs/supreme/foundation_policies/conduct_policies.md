@@ -49,7 +49,7 @@ Sensible clothing must be worn at all times. Foundation Investors are less restr
  7. No outfits similar to or imitating Class D or Class E uniforms.
  8. Attire should be respectful, preferably somewhat formal.
  9. You may not wear anything that may cover your ID.
- 10. For the month of October and December, regulation one may be considered void for outfits related to the holiday. From the 24th through to the 31st of October, and the 18th through to the 25th of December, regulations one, two, three, and four of the Attire Policy may be considered void and should not be enforced so long as an individual's outfit remains related to the holiday.
+ 10. For the month of October, personnel may wear Halloween themed hats and through the 24th to the 31st, they may wear Halloween related outfits. In addition to this, for the month of December, personnel may wear Christmas themed hats and from the 18th through to the 25th, they may wear Christmas themed outfits. 
 
 ## Article 7 - Following Orders
  1. Personnel, regardless of rank, are to follow orders given by members ranking Security Class-4 and above or from any authoritative organ of the Foundation.
