@@ -48,8 +48,8 @@ Sensible clothing must be worn at all times. Foundation Investors are less restr
  6. Accessories that emit particles, sounds, smoke, etc are not permitted.
  7. No outfits similar to or imitating Class D or Class E uniforms.
  8. Attire should be respectful, preferably somewhat formal.
- 9. You may not wear anything that may cover your ID. 
- 10. From the 24th through to the 31st of October, and the 18th through to the 25th of December, regulations one, two, three, and four of the Attire Policy may be considered void and should not be enforced so long as an individual's outfit remains related to the holiday.
+ 9. You may not wear anything that may cover your ID.
+ 10. For the month of October and December, regulation one may be considered void for outfits related to the holiday. From the 24th through to the 31st of October, and the 18th through to the 25th of December, regulations one, two, three, and four of the Attire Policy may be considered void and should not be enforced so long as an individual's outfit remains related to the holiday.
 
 ## Article 7 - Following Orders
  1. Personnel, regardless of rank, are to follow orders given by members ranking Security Class-4 and above or from any authoritative organ of the Foundation.
