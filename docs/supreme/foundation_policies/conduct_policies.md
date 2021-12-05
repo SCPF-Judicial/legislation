@@ -81,8 +81,8 @@ The items listed are available to be requested from by the Mr. Deeds, should you
 ## Article 10 - Tool Usage
  1. The fire extinguisher is a tool available to all personnel, it is used against the flame caused by SCP-457. You are not allowed to use it on SCP-457 without explicit permission from the Mobile Task Forces. You are not allowed to randomly spray the fire extinguisher without reason as it will be considered as immaturity.
  2. Members of the Foundation are given access to the radio to utilize during their on-site duties. Misuse of this radio can result in disciplinary actions as well as the abuser being muted from the radio.
- 3. Personnel are prohibited from dropping their keycard. Picking up another individual's keycard will be considered obstruction of dutie
- 4. If you accidentaly pick up another keycard, tou are to respawn to ensure that the card has been disposed of. Deciding to utilise a keycard that is belonging to you or refusing to dispose of one is grounds for punishment.
+ 3. Personnel are prohibited from dropping their keycard. Picking up another individual's keycard will be considered obstruction of duties. If you accidentaly pick up another keycard, you are to respawn in order to ensure that the card has been disposed of. Deciding to utilise a keycard that is not belonging to you or refusing to dispose of one is grounds for punishment.
+ 4. Upon redesignation of an indivudal's security clearance, they are obliged to print a replacement keycard and dispose of their orignial one.
 
 ## Article 11 - Obstruction
 1. Personnel may not obstruct the duties of others. This includes, but is not limited to: intentionally closing & opening doors on personnel attempting to enforce regulations or carry out a departmental duty such as terminating Class-D, aiding and abetting Class D, staying within Site Omicron during protocol Uproar.
