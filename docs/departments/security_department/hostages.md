@@ -4,6 +4,7 @@ title: Hostages
 ---
 
 :::tip
+
 It is recommended that all Security personnel read through this document: [Universal Hostage Regulations]
 (https://docs.google.com/document/d/1DrnAEcUAkOTaK3xupDz-ADeKz7XXRhOQChxyecFswIM/edit?usp=sharing)
 
