@@ -7,6 +7,7 @@ title: Hostages
 
 It is recommended that all Security personnel read through this document: [Universal Hostage Regulations]
 (https://docs.google.com/document/d/1DrnAEcUAkOTaK3xupDz-ADeKz7XXRhOQChxyecFswIM/edit?usp=sharing)
+
 :::
 
 One way for Class D personnel to cause havoc around the site is by taking facility personnel as hostages and putting combatives on their toes to find a way to successfully rescue them. Usually Class D will attempt to negotiate with combatives to gain something from said hostages.
