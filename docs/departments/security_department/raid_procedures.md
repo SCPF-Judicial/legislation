@@ -7,5 +7,3 @@ A raid is a unique joint external affair, hosted by the **Department of Diplomat
 
 During a raid, Class-Ds are allowed to be pushed back to the yellow line within the inner CDC, leading towards the CDs cells. Occasionally, MTF may request the sub-divisions to assist at Site Epsilon, CM assisting with healing, avoiding to get shot. During raids, _base SD are to head to Site Phi_ stationing within the Site, protecting it within the formations shown in the document below;
 Guard and above may be authorized to Omicron if the party is primarily attacking the site.
-
-:::
