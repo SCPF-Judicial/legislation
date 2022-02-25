@@ -7,9 +7,3 @@ A raid is a unique joint external affair, hosted by the **Department of Diplomat
 
 During a raid, Class-Ds are allowed to be pushed back to the yellow line within the inner CDC, leading towards the CDs cells. Occasionally, MTF may request the sub-divisions to assist at Site Epsilon, CM assisting with healing, avoiding to get shot. During raids, _base SD are to head to Site Phi_ stationing within the Site, protecting it within the formations shown in the document below;
 Guard and above may be authorized to Omicron if the party is primarily attacking the site.
-
-[Phi Raid Positioning](https://docs.google.com/document/d/1mbD5fsDQWM8Rtly_ce42cN1825vY9gW_AtZFwPttb6o/edit)
-
-:::caution
-If you want to even _think_ of attending a raid, you **must read the Raid Handbook:** [SCPF - Raid Handbook](https://docs.google.com/document/d/1d8UC_Fu2tOkmox5mXtHfYOnA0HhJods9X4mQZHvE21A/edit)
-:::

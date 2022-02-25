@@ -17,8 +17,6 @@ Security personnel guarding the Main Guard Line should only be focused on Class 
 
 If the glass is broken in the observation windows, you are required to call in a member of the Engineering & Technical Services department.
 
-If you found yourself still confused by said positions. This link will provide you a much more physical interpretation plus more positions not just in the inner CDC itself.
-
 ### Solitary Usage
 
 Solitary Usage
@@ -27,59 +25,26 @@ Security personnel ranking Junior and above are given Zipties in order to detain
 | Offence                                                                                                                                     | Punishment               |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | Firing a weapon/Using a makeshift knife                                                                                                     | Strike                   |
-| Taking hostages                                                                                                                             | **Instant Solitary**     |
-| Attempted or successful termination of a Civil _Security Class 4_                                                                           | **Instant Solitary**     |
-| Attempting to free other Class D from solitary or from detainment                                                                           | ** Instant Solitary**    |
-| Using SCP-034 on Combative Command or Foundation Command members                                                                            | ** Instant Solitary**    |
+| Taking hostages                                                                                                                             | **Instant Solitary**
+  |
+| Attempted or successful termination of a Civil _Security Class 4_                                                                           | **Instant Solitary**
+  |
+| Attempting to free other Class D from solitary or from detainment                                                                           | ** Instant Solitary**     |
+| Using SCP-034 on Combative Command or Foundation Command members                                                                            | ** Instant Solitary**     |
 | Attempting to access restricted areas                                                                                                       | Strike                   |
 | Entering the Solitary Zone                                                                                                                  | Strike                   |
 | Entering the Class E Cells                                                                                                                  | Strike                   |
 | Entering Security access doors/hallways                                                                                                     | Strike                   |
-| Angering SCPs                                                                                                                               | **Instant Solitary**     |
+| Angering SCPs                                                                                                                               | **Instant Solitary**
+|
 | Escaping Omicron                                                                                                                            | Strike after Termination |
-| Any form of civil department duties, involving requesting Class-Ds, has been interrupted two or more times, whether or not it’s the same CD | **Instant Solitary**     |
-
-### Strikes
-
-A Class-D may accumulate up to a total of three strikes before they are designated for solitary confinement (“DFSC”). After their time in solitary confinement is over, their strikes reset.
-
-If they commit an infraction that is an automatic DFSC, all other strikes are voided.
-
-:::note
-
-**Format for strikes:** “/e [CLASS-D] - #(number of strikes)”
-
-**Format for logging SC on radio:** “/e [CLASS-D] SC’ed until XX:XX”
-
-:::
+| Any form of civil department duties, involving requesting Class-Ds, has been interrupted two or more times, whether or not it’s the same CD | **Instant Solitary**
+|
 
 ### Solitary Confinement Evasion
 
 If a Class-D is put into solitary confinement and then leaves, that is not classed as evasion. If they rejoin before their time in solitary confinement is over, they will be put back into solitary confinement upon rejoining the game. If this predicament does come upon you, you are allowed to report them with valid proof to an SC-4 and above.
 
-### Riot Foam Usage
-
-The riot foam is another added form of defense within the inner parts of omicron, specifically the inner parts of CDC. Used by security personnel to easily subdue and weaken any possible Class-D rioters that are caught in the foam.
-
-The following is a set of restrictions placed to ensure the usage of this feature is monitored and not abused by any member of the security department.
-
-:::info
-
-**Personnel allowed to initiate the riot foam:**
-
-- **SD** > _Security Guard_ and above
-- **SRU** > _Response Operative_ and above
-- **MP** > _Constable_ and above
-- **CM** > _Specialized Field Medic_ and above
-
-**Riot Foam Criteria:** _(any of)_
-
-- **5+** Class-D’s actively rioting
-- **Multiple Class-D’s** have been reported _attempting escape_
-- **Uproar, and** current security personnel are unable to take back the _inner CDC_
-- Ordered by any **MTF Field Agent+** or **Security Inspector+**
-
-:::
 
 ### Uproar
 
@@ -100,27 +65,6 @@ Base SD are not allowed to pass the riot lines, or the reception area during pro
 During Uproar, security personnel should provide support to any Security Response Unit and Combat Medics to clear Omicron in vital areas, securing its monorail stations as well as ensuring Phi’s safety during the entirety of the protocol.
 
 Uproar must be called off once all escaped Class D and rioters inside Site Omicron have been terminated. A lockdown must be called after Uproars that have lasted at least 10 minutes and only after they have ended, not during.
-
-### Bio Chemistry Assistance
-
-In collaboration between SD and ScD (Specifically the biochemistry sub-division)
-ScD have lent their support by giving access to authorized security personnel to request their assistance via giving chemical compounds that aim to improve the physical attributes of security personnel. From movement speed, jump height, and etc.
-
-Only the following personnel are allowed to request for Chemists assistance:
-
-- **SD** > _Security Guard_ and above
-- **SRU** > _Response Operative_ and above
-- **MP** > _Constable_ and above
-- **CM** > _Field Medic_ and above
-
-Following are a set of regulations and restrictions when it comes to requesting the Biochemistry sub-division:
-
-- The Highest ranking SD personnel has priority over the Bio Chemistry Assistance.
-- Only request if there is an active uproar. _(5-10 minutes have passed)_
-- Authorized by an **Officer+**
-- Juggernauts are **NOT ALLOWED** to consume any of the compounds.
-- Only **once every uproar** situation per security personnel.
-- Only **one effect** is to be administered for every security personnel
 
 ### Lockdown
 
@@ -176,9 +120,7 @@ Base Security Department operatives are **NOT allowed** within Site Epsilon with
 
 ---
 
-Site Phi is the primary personnel facility. Most civil departments are located within this site. Typically, Security Cadets should be stationed at this Site and should primarily focus on guarding the monorail entrance and the Site’s main entry door or exterior staircase. Site Phi holds a lot of civils rooms such as AD spawn, Foundation Personnel spawn, CWO spawn, MD spawn and Breach Shelter.
-
-At least 1 Security Cadet should be guarding Site Phi at any given time. If there are more than 1 Security Cadet stationed at Site Phi, other cadets may head to Site Omicron.
+Site Phi is the primary personnel facility. Most civil departments are located within this site. Typically, Military Police should be stationed at this Site and should primarily focus on guarding the monorail entrance and the Site’s main entry door or exterior staircase. Site Phi holds a lot of civils rooms such as AD spawn, Foundation Personnel spawn, CWO spawn, MD spawn and Breach Shelter.
 
 There is another extension of Site Phi located across the road from the MP checkpoint. This extension holds the Research Wing along with E&Ts Wing. Within the research wing you may locate the Clean Room and within the E&Ts Wing you may locate the generators and E&Ts spawn.
 

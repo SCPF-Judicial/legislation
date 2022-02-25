@@ -7,10 +7,11 @@ title: Termination Criteria
 
 Foundation personnel should **not** be terminated unless at least one of the following criteria have been met:
 
-1. They have been **declared rogue** and are **terminating other personnel**
-2. They are **interfering with recontainment**
-3. They are **infected by an SCP**
-4. C-9 and _test escorts are authorized to kill SC-0s_ who impede a test after **1 verbal warning**.
+1. They have been **declared rogue** and are **terminating other personnel**.
+2. They are **interfering with recontainment**.
+3. They are **infected by an SCP**.
+4. You're acting in **self defense**.
+5. C-9 and _test escorts are authorized to kill SC-0s_ who impede a test after **1 verbal warning**.
 
 ### Class D Personnel
 
