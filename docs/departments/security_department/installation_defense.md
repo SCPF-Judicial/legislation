@@ -25,17 +25,21 @@ Security personnel ranking Junior and above are given Zipties in order to detain
 | Offence                                                                                                                                     | Punishment               |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | Firing a weapon/Using a makeshift knife                                                                                                     | Strike                   |
-| Taking hostages                                                                                                                             | **Instant Solitary**     |
-| Attempted or successful termination of a Civil _Security Class 4_                                                                           | **Instant Solitary**     |
-| Attempting to free other Class D from solitary or from detainment                                                                           | ** Instant Solitary**    |
-| Using SCP-034 on Combative Command or Foundation Command members                                                                            | ** Instant Solitary**    |
+| Taking hostages                                                                                                                             | **Instant Solitary**
+  |
+| Attempted or successful termination of a Civil _Security Class 4_                                                                           | **Instant Solitary**
+  |
+| Attempting to free other Class D from solitary or from detainment                                                                           | ** Instant Solitary**     |
+| Using SCP-034 on Combative Command or Foundation Command members                                                                            | ** Instant Solitary**     |
 | Attempting to access restricted areas                                                                                                       | Strike                   |
 | Entering the Solitary Zone                                                                                                                  | Strike                   |
 | Entering the Class E Cells                                                                                                                  | Strike                   |
 | Entering Security access doors/hallways                                                                                                     | Strike                   |
-| Angering SCPs                                                                                                                               | **Instant Solitary**     |
+| Angering SCPs                                                                                                                               | **Instant Solitary**
+|
 | Escaping Omicron                                                                                                                            | Strike after Termination |
-| Any form of civil department duties, involving requesting Class-Ds, has been interrupted two or more times, whether or not it’s the same CD | **Instant Solitary**     |
+| Any form of civil department duties, involving requesting Class-Ds, has been interrupted two or more times, whether or not it’s the same CD | **Instant Solitary**
+|
 
 ### Solitary Confinement Evasion
 
